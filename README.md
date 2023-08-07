@@ -17,7 +17,7 @@ Sc nya gk di jual, Bayar pake subs aja
 <a href="#"><img title="DIRLYBOT MULTI DEVICE" src="https://img.shields.io/badge/DIRLYBOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/dirroneofc"><img title="Author" src="https://img.shields.io/badge/Author-DirroneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dirroneofc"><img title="Author" src="https://img.shields.io/badge/Author-DirroneOfc-red.svg?style=for-the-badge&logo=youtube"></a>
 <a href="https://YouTube.com/@dirroneofc"><img title="My Ytb" src="https://img.shields.io/badge/Ytb-Dirroneofc-red.svg?style=for-the-badge&logo=github"></a>
 
 ## Information
