@@ -18,11 +18,15 @@ Sc nya gk di jual, Bayar pake subs aja
 </p>
 <p align="center">
 <a href="https://github.com/dirroneofc"><img title="Author" src="https://img.shields.io/badge/Author-DirroneOfc-red.svg?style=for-the-badge&logo=youtube"></a>
-<a href="https://YouTube.com/@dirroneofc"><img title="My Ytb" src="https://img.shields.io/badge/Ytb-Dirroneofc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://YouTube.com/@dirroneofc"><img title="My Ytb" src="https://img.shields.io/badge/Ytb-Dirroneofc-red.svg?style=for-the-badge&logo=github"></a>
+
+
 
 ## Information
 > Dirlybot adalah bot phuskontak simbel base real dari dirly
-
+
+
+
 ## FOR REPLIT USER
 [![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://repl.it/github/zeeoneofficial/Alphabot-Md)
 ------
@@ -33,14 +37,16 @@ Sc nya gk di jual, Bayar pake subs aja
 
 
 ## Donate
-- [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
-- [Paypal](https://paypal.me/zeeoneofc)
+- [Qris all pay](https://telegra.ph/file/bdc777f44ff72aef6e33a.jpg)
 
 # Official Group
   <a href="https://instabio.cc/Alphabot"><img
   src="https://img.shields.io/badge/DirlyBot    Support-FF03E4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-# Thanks to [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) [zeeoneofficial](https://zeeoneofficial.github.io)
+# Thanks to
+
+
+ [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) [zeeoneofficial](https://zeeoneofficial.github.io)
 Owner of Api Alphabot
 
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
