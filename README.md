@@ -46,9 +46,10 @@ Owner of Api Alphabot
 [Adiwajshing](https://github.com/adiwajshing)
 Owner of Baileys
 
+
 <a href="https://github.com/dirroneofc"><img src="https://github.com/dirroneofc.png?size=100" width="100" height="100"></a>
 [DIRLY](https://github.com/dirroneofc)
-Penyedia Script & Owners Script|
+Penyedia Script
 
 
 
