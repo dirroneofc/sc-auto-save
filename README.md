@@ -36,7 +36,7 @@ Sc nya gk di jual, Bayar pake subs aja
 - [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
 - [Paypal](https://paypal.me/zeeoneofc)
 
-# Official Group
+#Official Group
 <a href="https://instabio.cc/Alphabot"><img
   src="https://img.shields.io/badge/DirlyBot    Support-FF03E4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
