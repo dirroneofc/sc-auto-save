@@ -43,8 +43,7 @@ Sc nya gk di jual, Bayar pake subs aja
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
-Owner Hisoka-Morou | Constributor | [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) 
-[Ferdiz](https://github.com/FERDIZ-afk) | [zeeoneofficial](https://zeeoneofficial.github.io)
+Owner Hisoka-Morou | Constributor | [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) [zeeoneofficial](https://zeeoneofficial.github.io)
 For Help | Owner of Api Alphabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
 [Adiwajshing](https://github.com/adiwajshing)
