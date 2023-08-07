@@ -38,7 +38,7 @@ Sc nya gk di jual, Bayar pake subs aja
 
 # Official Group
 <a href="https://instabio.cc/Alphabot"><img
-  src="https://img.shields.io/badge/DirlyBot Support-FF03E4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  src="https://img.shields.io/badge/DirlyBot    Support-FF03E4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) [zeeoneofficial](https://zeeoneofficial.github.io)
 Owner of Api Alphabot
