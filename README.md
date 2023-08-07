@@ -1,6 +1,8 @@
 ## BACA DULU BANG
 
-> **Warning**: Sc nya gk di jual, Bayar pake subs aja [`Klik disini untuk Subscribe Kami`](https://YouTube.com/@dirroneofc)
+> **Warning**:
+Sc nya gk di jual, Bayar pake subs aja
+[`Klik disini untuk Subscribe Kami`](https://YouTube.com/@dirroneofc)
 
 -----------------------------------------------------
 
