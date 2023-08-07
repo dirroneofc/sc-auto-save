@@ -40,8 +40,9 @@ Sc nya gk di jual, Bayar pake subs aja
 <a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) [zeeoneofficial](https://zeeoneofficial.github.io)
-Owner of Api Alphabot |
+Owner of Api Alphabot
+
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
 [Adiwajshing](https://github.com/adiwajshing)
-Owner of Baileys |
+Owner of Baileys
 
