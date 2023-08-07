@@ -44,7 +44,7 @@ Sc nya gk di jual, Bayar pake subs aja
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
 Owner Hisoka-Morou | Constributor | [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) [zeeoneofficial](https://zeeoneofficial.github.io)
-For Help | Owner of Api Alphabot |
+Owner of Api Alphabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
 [Adiwajshing](https://github.com/adiwajshing)
 Owner of Baileys |
