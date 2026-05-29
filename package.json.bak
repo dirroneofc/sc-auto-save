@@ -13,7 +13,7 @@
 	],
 	"author": "DirrphaBotz-Md",
 	"license": "MIT",
-	"dependencies": {
+	  "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "4.0.22-alpha.0",
     "@google/generative-ai": "^0.24.0",

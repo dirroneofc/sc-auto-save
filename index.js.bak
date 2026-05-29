@@ -1,16 +1,10 @@
-// ============================================
-//  Obfuscated by Nabees Tech
-//  Domain: git.nabees.online
-//  WhatsApp: https://whatsapp.com/channel/0029VawtjOXJpe8X3j3NCZ3j
-//  Protected - Do not redistribute
-// ============================================
 /* SUBSCRIBE MY YTB DIRRONE OFC
 LANGSUNG START AJA WARNA HIJAU*/
 require('./dirlysetting')
 const { modul } = require('./module');
 const { baileys, boom, chalk, fs, figlet, FileType, path, pino, process, PhoneNumber, axios, yargs, _ } = modul;
 const { default: dirlyConnect, BufferJSON, processedMessages, PHONENUMBER_MCC, initInMemoryKeyStore, AnyMessageContent, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, delay, makeInMemoryStore, jidDecode, proto, getAggregateVotesInPollMessage } = require("@whiskeysockets/baileys")
-//const pino = require('pino')
+const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
 const FileType = require('file-type')
